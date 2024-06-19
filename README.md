@@ -68,6 +68,10 @@ pip install -r requirements.txt
 
 Each example script includes a detailed explanation and results analysis.
 
+Comparative Analysis
+
+Check out our [comparative analysis notebook](examples/comparative_analysis.ipynb) to see how different activation functions perform on the same dataset. This notebook includes visualizations and performance metrics to help you understand the strengths and weaknesses of each activation function.
+
 ## Contributing
 
 We welcome contributions from the community! If you have an idea for a new activation function or an improvement to an existing one, feel free to open an issue or submit a pull request.
