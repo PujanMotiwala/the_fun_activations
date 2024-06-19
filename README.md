@@ -70,7 +70,7 @@ python examples/example_script.py
 
 Each example script includes a detailed explanation and results analysis.
 
-Comparative Analysis
+## Comparative Analysis
 
 Check out our [comparative analysis notebook](examples/comparative_analysis.ipynb) to see how different activation functions perform on the same dataset. This notebook includes visualizations and performance metrics to help you understand the strengths and weaknesses of each activation function.
 
