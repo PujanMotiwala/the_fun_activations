@@ -65,7 +65,7 @@ We provide several example scripts demonstrating the use of different activation
 Here’s how you can run an example:
 
 ```bash
-pip install -r requirements.txt
+python examples/example_script.py
 ```
 
 Each example script includes a detailed explanation and results analysis.
