@@ -24,6 +24,8 @@ We will cover a wide range of activation functions, including but not limited to
 - Tanh
 - ReLU (Rectified Linear Unit)
 - Leaky ReLU
+
+(ongoing additions)
 - PReLU (Parametric ReLU)
 - ELU (Exponential Linear Unit)
 - SELU (Scaled Exponential Linear Unit)
